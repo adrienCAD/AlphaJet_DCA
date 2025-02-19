@@ -2,10 +2,395 @@
 	"name": "Fear and Greed Index",
 	"data": [
 		{
+			"value": "47",
+			"value_classification": "Neutral",
+			"timestamp": "1739836800",
+			"time_until_update": "86035"
+		},
+		{
+			"value": "51",
+			"value_classification": "Neutral",
+			"timestamp": "1739750400"
+		},
+		{
+			"value": "54",
+			"value_classification": "Neutral",
+			"timestamp": "1739664000"
+		},
+		{
+			"value": "50",
+			"value_classification": "Neutral",
+			"timestamp": "1739577600"
+		},
+		{
+			"value": "48",
+			"value_classification": "Neutral",
+			"timestamp": "1739491200"
+		},
+		{
+			"value": "50",
+			"value_classification": "Neutral",
+			"timestamp": "1739404800"
+		},
+		{
+			"value": "46",
+			"value_classification": "Fear",
+			"timestamp": "1739318400"
+		},
+		{
+			"value": "47",
+			"value_classification": "Neutral",
+			"timestamp": "1739232000"
+		},
+		{
+			"value": "43",
+			"value_classification": "Fear",
+			"timestamp": "1739145600"
+		},
+		{
+			"value": "46",
+			"value_classification": "Fear",
+			"timestamp": "1739059200"
+		},
+		{
+			"value": "44",
+			"value_classification": "Fear",
+			"timestamp": "1738972800"
+		},
+		{
+			"value": "44",
+			"value_classification": "Fear",
+			"timestamp": "1738886400"
+		},
+		{
+			"value": "49",
+			"value_classification": "Neutral",
+			"timestamp": "1738800000"
+		},
+		{
+			"value": "54",
+			"value_classification": "Neutral",
+			"timestamp": "1738713600"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1738627200"
+		},
+		{
+			"value": "44",
+			"value_classification": "Fear",
+			"timestamp": "1738540800"
+		},
+		{
+			"value": "60",
+			"value_classification": "Greed",
+			"timestamp": "1738454400"
+		},
+		{
+			"value": "68",
+			"value_classification": "Greed",
+			"timestamp": "1738368000"
+		},
+		{
 			"value": "76",
 			"value_classification": "Extreme Greed",
-			"timestamp": "1733184000",
-			"time_until_update": "80956"
+			"timestamp": "1738281600"
+		},
+		{
+			"value": "70",
+			"value_classification": "Greed",
+			"timestamp": "1738195200"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1738108800"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1738022400"
+		},
+		{
+			"value": "71",
+			"value_classification": "Greed",
+			"timestamp": "1737936000"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1737849600"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1737763200"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1737676800"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1737590400"
+		},
+		{
+			"value": "84",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1737504000"
+		},
+		{
+			"value": "76",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1737417600"
+		},
+		{
+			"value": "76",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1737331200"
+		},
+		{
+			"value": "77",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1737244800"
+		},
+		{
+			"value": "77",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1737158400"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1737072000"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1736985600"
+		},
+		{
+			"value": "70",
+			"value_classification": "Greed",
+			"timestamp": "1736899200"
+		},
+		{
+			"value": "63",
+			"value_classification": "Greed",
+			"timestamp": "1736812800"
+		},
+		{
+			"value": "61",
+			"value_classification": "Greed",
+			"timestamp": "1736726400"
+		},
+		{
+			"value": "62",
+			"value_classification": "Greed",
+			"timestamp": "1736640000"
+		},
+		{
+			"value": "69",
+			"value_classification": "Greed",
+			"timestamp": "1736553600"
+		},
+		{
+			"value": "50",
+			"value_classification": "Neutral",
+			"timestamp": "1736467200"
+		},
+		{
+			"value": "69",
+			"value_classification": "Greed",
+			"timestamp": "1736380800"
+		},
+		{
+			"value": "70",
+			"value_classification": "Greed",
+			"timestamp": "1736294400"
+		},
+		{
+			"value": "78",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1736208000"
+		},
+		{
+			"value": "76",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1736121600"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1736035200"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1735948800"
+		},
+		{
+			"value": "74",
+			"value_classification": "Greed",
+			"timestamp": "1735862400"
+		},
+		{
+			"value": "70",
+			"value_classification": "Greed",
+			"timestamp": "1735776000"
+		},
+		{
+			"value": "66",
+			"value_classification": "Greed",
+			"timestamp": "1735689600"
+		},
+		{
+			"value": "64",
+			"value_classification": "Greed",
+			"timestamp": "1735603200"
+		},
+		{
+			"value": "65",
+			"value_classification": "Greed",
+			"timestamp": "1735516800"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1735430400"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1735344000"
+		},
+		{
+			"value": "74",
+			"value_classification": "Greed",
+			"timestamp": "1735257600"
+		},
+		{
+			"value": "79",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1735171200"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1735084800"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1734998400"
+		},
+		{
+			"value": "70",
+			"value_classification": "Greed",
+			"timestamp": "1734912000"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1734825600"
+		},
+		{
+			"value": "73",
+			"value_classification": "Greed",
+			"timestamp": "1734739200"
+		},
+		{
+			"value": "74",
+			"value_classification": "Greed",
+			"timestamp": "1734652800"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1734566400"
+		},
+		{
+			"value": "81",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734480000"
+		},
+		{
+			"value": "87",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734393600"
+		},
+		{
+			"value": "83",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734307200"
+		},
+		{
+			"value": "80",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734220800"
+		},
+		{
+			"value": "83",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734134400"
+		},
+		{
+			"value": "76",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1734048000"
+		},
+		{
+			"value": "83",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733961600"
+		},
+		{
+			"value": "74",
+			"value_classification": "Greed",
+			"timestamp": "1733875200"
+		},
+		{
+			"value": "78",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733788800"
+		},
+		{
+			"value": "78",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733702400"
+		},
+		{
+			"value": "79",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733616000"
+		},
+		{
+			"value": "75",
+			"value_classification": "Greed",
+			"timestamp": "1733529600"
+		},
+		{
+			"value": "72",
+			"value_classification": "Greed",
+			"timestamp": "1733443200"
+		},
+		{
+			"value": "84",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733356800"
+		},
+		{
+			"value": "78",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733270400"
+		},
+		{
+			"value": "76",
+			"value_classification": "Extreme Greed",
+			"timestamp": "1733184000"
 		},
 		{
 			"value": "80",
